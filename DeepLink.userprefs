@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{38B212E9-85EF-4515-8B3E-0B540ADAA019}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DeepLink PreferredExecutionTarget="Android.02157df24bb1b50a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeepLink\MainActivity.cs">
+    <Files>
+      <File FileName="DeepLink\Properties\AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="DeepLink\MainActivity.cs" Line="50" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
